@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+/* canvas {
+  display: block;
+  margin: 0 auto;
+
+} */
+.container{
+  position: relative;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+ 
+}
+canvas {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
